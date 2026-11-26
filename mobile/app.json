@@ -15,7 +15,7 @@
     },
     "ios": {
       "supportsTablet": true,
-      "bundleIdentifier": "com.ralph0210.medtracker",
+      "bundleIdentifier": "com.ahto.medtracker",
       "buildNumber": "2",
       "infoPlist": {
         "ITSAppUsesNonExemptEncryption": false
@@ -27,7 +27,7 @@
         "backgroundColor": "#0b0c0e"
       },
       "edgeToEdgeEnabled": true,
-      "package": "com.ralph0210.medtracker"
+      "package": "com.ahto.medtracker"
     },
     "web": {
       "favicon": "./assets/favicon.png"

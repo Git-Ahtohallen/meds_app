@@ -13,7 +13,7 @@ A privacy-first medication tracking app for iOS. Your data never leaves your dev
 | **No Tracking**       | No analytics, no telemetry                        |
 | **Complete Deletion** | Deleting a medication removes ALL associated data |
 
-📖 **[Read our full privacy documentation →](https://www.ralphchang.com/blog/meds-privacy)**
+📖 **[Read our full privacy documentation →](https://www.ahto.com/blog/meds-privacy)**
 
 ## 📱 Features
 

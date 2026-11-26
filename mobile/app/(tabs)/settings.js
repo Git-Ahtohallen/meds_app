@@ -343,7 +343,7 @@ export default function SettingsScreen() {
             <TouchableOpacity
               style={styles.learnMoreButton}
               onPress={() =>
-                Linking.openURL("https://www.ralphchang.com/blog/meds-privacy")
+                Linking.openURL("https://www.ahto.com/blog/meds-privacy")
               }
             >
               <Text style={styles.learnMoreText}>{t("privacy.learnMore")}</Text>

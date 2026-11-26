@@ -13,7 +13,7 @@
 | **No Tracking**       | No analytics, no telemetry                        |
 | **Complete Deletion** | Deleting a medication removes ALL associated data |
 
-📖 **[Read our full privacy documentation →](https://www.ralphchang.com/blog/meds-privacy)**
+📖 **[Read our full privacy documentation →](https://www.ahto.com/blog/meds-privacy)**
 
 ### Data Architecture
 
